@@ -11,6 +11,7 @@ public class Exercicio09 {
 
         int opcao = sc.nextInt();
         System.out.println("Digite a quantidade desejada?");
+
         int quantidade = sc.nextInt();
         double total = quantidade;
 
